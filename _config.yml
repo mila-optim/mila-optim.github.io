@@ -1,14 +1,15 @@
-title: Alfredo Canziani
+title: Lucas Maes
 plugins:
   - jekyll-remote-theme
+  - jekyll-redirect-from
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: classic
   social_links:
-    twitter: alfcnz
-    github:  Atcold
-    youtube_channel: UCupQLyNchb9-2Z5lmUOIijw
-    youtube_channel_name: Alfredo Canziani
+    twitter: lucasmaes_
+    github:  lucas-maes
+    youtube_channel: UCnxmN17O2Z2zFESEJsHOW5w
+    youtube_channel_name: Lucas Maes
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:

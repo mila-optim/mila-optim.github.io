@@ -1,4 +1,6 @@
 ---
 layout: home
-title: Blog
+#title: Blog
 ---
+
+### Coming soon ...

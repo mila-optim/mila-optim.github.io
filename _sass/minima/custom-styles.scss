@@ -1,6 +1,8 @@
 /**
  * Site header
  */
+
+
 .site-header {
   border-top: none;
   line-height: $base-line-height * $base-font-size * 3.25;
@@ -12,7 +14,7 @@
   line-height: 80%;
   margin-top: 15pt;
   margin-bottom: 15pt;
-  color: #80b1d3 !important;
+  color: #561050 !important;
   text-decoration: none !important;
 }
 
@@ -24,20 +26,73 @@
  * Titles
  */
 h1 {
-  color: $lavender;
+  color: #371B58//$primary;
 }
 
 h2 {
-  color: $pink;
+  color: #4C3575//$lavender;
 }
 
 h3 {
-  color: $lavender;
+  color:  #5B4B8A//$pink;
+}
+
+h4 {
+  color: #7858A6//$pink;
 }
 
 /**
  * Custom
  */
+
+img{
+  max-width: 350px;
+  max-height: 350px;
+}
+
+.sub-nav{
+  padding: 0;
+  margin: 0;
+  margin-bottom: 7px;
+}
+
+.sub-nav > .sub-item {
+  display:inline;
+  padding-right: 3%;
+}
+
+.book{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.book > .title{
+  margin-top: 2%;
+  text-align:  center;
+  font-size: $base-font-size * 1.15;
+}
+
+.title > a{
+  //color: $gray !important;
+}
+
+
+.title > a:hover{
+ //color: $primary-dark !important;
+}
+
+.title > .author{
+  color: $gray;
+  opacity: 0.6;
+  font-size: $base-font-size;
+}
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .warning {
   color: $red;
   font-weight: bold;
@@ -45,6 +100,12 @@ h3 {
 
 .last-edit {
   text-align: right;
+}
+
+.copyright {
+  margin-top: 5%;
+  color: $gray-light;
+  text-align: left;
   opacity: 0.5;
   font-size: 0.75em;
 }
@@ -54,10 +115,10 @@ h3 {
 }
 
 .post-content a, .post-link {
-  color: #8dd3c7 !important;
+  color: #7858A6;
 }
 
-$link-base-color: #8dd3c7 !default;
+$link-base-color: #7858A6 !default;
 
 // .post-link {
 //   color: #8dd3c7 !important;
@@ -68,6 +129,9 @@ h1#about-me {
   font-size: 2em;
   line-height: 1.5;
   margin-top: auto;
+}
+
+.page-link{
 }
 
 // Blog layout is home, so set size as other pages
