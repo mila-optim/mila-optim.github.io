@@ -32,8 +32,8 @@ In this section, I will try the give a brief overview of the subject that catche
 
 #### Deep learning theory
 * Studying how to build efficient optimizers such as Adam, Nesterov momentum, RMSProp, .... But also proving their convergence and effects on neural network training.
-* Formally understanding why neural networks are working, what generalization is and use those mathematical principles to build a theory of intelligence as proposed by <a href="https://arxiv.org/pdf/2207.04630.pdf">On the Principles of Parsimony and Self-Consistency
-for the Emergence of Intelligence</a> from Yi Ma. 
+* Formally understanding why neural networks are working, what is a good representation, what is generalization and use those mathematical principles to build a theory of intelligence as proposed by <a href="https://arxiv.org/pdf/2207.04630.pdf">On the Principles of Parsimony and Self-Consistency
+for the Emergence of Intelligence</a> from Ma & al., 2022 
 * Studying how to make efficient generative latent variable models (e.g. manifold learning, VAE, GANs). Especially through optimal transport theory as in <a href="https://arxiv.org/pdf/1701.07875.pdf"> Wasserstein GAN</a>.
 * Finding new regularizing methods and their effect on learning landscape, e.g. <a href="https://atcold.github.io/pytorch-Deep-Learning/en/week08/08-2/"> Regularized Latent Variable Energy Based model </a>.
 
