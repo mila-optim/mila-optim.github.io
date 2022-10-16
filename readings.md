@@ -3,7 +3,7 @@ layout: page
 title: Readings
 ---
 
-A lot of my acquired knowledge is coming from self-study and personal readings. On that page, I will maintain and try to give an overview of the book that had been helpful to me. I also learn a lot through paper reading. I’m trying to practice reviewing them. For an up-to-date list of papers that I read, please check my <a href="https://github.com/lucas-maes/paper-notes" target="_blank">papers-notes</a> gitHub repository.
+A lot of my acquired knowledge is coming from self-study and personal readings. On that page, I will maintain and try to give an overview of the book that had been helpful to me. You can have a look to the books that I'm planning to read over the coming months <a href="https://www.bookdepository.com/wishlists/WLDQM4" target="_blank"> here</a>. I also learn a lot through paper reading. I’m trying to practice reviewing them. For an up-to-date list of papers that I read, please check my <a href="https://github.com/lucas-maes/paper-notes" target="_blank">papers-notes</a> gitHub repository.
 
 ## Artificial Intelligence
 
@@ -88,7 +88,47 @@ This book has been important to me. It has been the first book about AI that I r
     This book was an eye-opener for me. It showed me how beautiful, social, and profound mathematic research could be. The book depicts how the field medal laureate Crédic Villani managed to prove the theorem that made him win the medal.After the reading, it convinced me that my future research directions intensively use pure mathematics. Cédric Villani has greatly influenced me. He transmitted his passion for mathematics to me and was an open-eyer about the beauty of the mathematician profession. Therefore, I strongly recommend his book to everyone, especially those who are not in academia.
 </div>
 
+***
+
+<div class="book">
+    <!-- Image -->
+    <a href="https://amzn.to/3gcVpLK" target="_blank" ><img class="center" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1493927116&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1"></a>
+    <p class="title">
+        <a href="https://amzn.to/3gcVpLK" target="_blank">Understanding Analysis</a>
+        <br>
+        <span class="author"> by Stephen Abbott</span>
+    </p>
+    An educational masterpiece for learning real analysis. That book was the first step on my self-study math journey. It comes with many exercises to make the reader deeply think about presented results and allow him to build his intuition about the concepts. It was an helpful resource in learning how to construct proofs and play with real analysis concepts.
+</div>
+
+***
+
+<div class="book">
+    <!-- Image -->
+    <a href="https://amzn.to/3Vv1J1b" target="_blank" ><img class="center" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0691199221&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1"></a>
+    <p class="title">
+        <a href="https://amzn.to/3Vv1J1b" target="_blank">DO NOT ERASE, Mathematicians and their chalkboards</a>
+        <br>
+        <span class="author"> by Jessica Wynne</span>
+    </p>
+    DO NOT ERASE is proof that mathematics is an art. The book is a collection of well-shooted pictures from mathematicians' chalkboards. Additionally to each chalkboard, a little text written by the board's owner describes what he is working on and how he tackles problems. It is a piece of art and an inspiring book.
+</div>
+
 ## Philosophy
+
+*** 
+
+<div class="book">
+    <!-- Image -->
+    <a href="https://amzn.to/3Tndzss" target="_blank" ><img class="center" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2330066627&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1"></a>
+    <p class="title">
+        <a href="https://amzn.to/3Tndzss" target="_blank">Le pays qu'habitait Albert Einstein</a>
+        <br>
+        <span class="author"> by Etienne Klein</span>
+    </p>
+    The book is a journey through the life of Albert Einstein. Étienne Klein is cycling through all the important places where Albert Einstein had been staying in Switzerland, while making some philosophical links between his journey and the scientific contributions made by Einstein. A good summer reading that I enjoyed a lot.
+</div>
+
 
 ***
 

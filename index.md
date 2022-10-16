@@ -16,7 +16,7 @@ layout: page
 
 ## About me
 
-I’m a Belgian second-year research M.Sc student in artificial intelligence at the University of Montreal under the supervision of Prof. <a href="https://scholar.google.com/citations?user=xsUkTCEAAAAJ&hl=fr">Houari Sahraoui</a>, currently working on guiding reinforcement learning policies using computer programs.
+I’m a Belgian second-year research M.Sc student in artificial intelligence at the <a href="https://www.umontreal.ca/" target="_blank">University of Montreal</a> under the supervision of Prof. <a href="https://scholar.google.com/citations?user=xsUkTCEAAAAJ&hl=fr">Houari Sahraoui</a>, currently working on asymptotic approximation of computer programs’ functional correctness via a game-theoretic formulation of program testing using GANs.
 
 One could consider my life goal as *"Understanding the real through building an abstraction that captures its essence"*. In my opinion, achieving that goal must be through math and physics. Driven by that idea, I'm self-studying pure math and physics in my free time. Building a theory of intelligence is a crucial part of that journey as humans make, understand, and interpret reality through their brains. For that, I like thinking about what artificial neural networks, as well as how they work, are telling us using mathematical frameworks.
 
@@ -55,8 +55,7 @@ Here are some of the domains that I like to learn about in which I would like to
 
 #### Current direction
 Before diving into more theoretical research for Ph.D., I had in mind to get an overview of what applied research could look like. I tough that it could benefit me by improving my coding skills and be helpful to the lab by bringing knowledge acquired through courses that I took. Therefore I choose to see how software engineering could benefit from deep learning and reinforcement learning. It gives me insights into how abording practical problems but also strongly reinforces my coding skills. 
-My master thesis consists of guiding reinforcement learning agents with computer programs to reduce their search space as done in <a href="https://arxiv.org/pdf/2102.11137.pdf">that paper</a>.
-
+My master thesis consists of asymptotically approximate computer programs’ functional correctness via a game-theoretic formulation of program testing using GANs.
 
 <p class="copyright"> Theme from <a href="https://atcold.github.io/">Alfredo Canziani</a>.  <span class="last-edit" style='float:right;'>Last update: 05 Oct 2022.</span></p>
    
