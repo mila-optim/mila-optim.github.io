@@ -3,7 +3,7 @@ layout: page
 title: Readings
 ---
 
-A lot of my acquired knowledge is coming from self-study and personal readings. On that page, I will maintain and try to give an overview of the book that had been helpful to me. You can have a look to the books that I'm planning to read over the coming months <a href="https://www.bookdepository.com/wishlists/WLDQM4" target="_blank"> here</a>. I also learn a lot through paper reading. I’m trying to practice reviewing them. For an up-to-date list of papers that I read, please check my <a href="https://github.com/lucas-maes/paper-notes" target="_blank">papers-notes</a> gitHub repository.
+A lot of my acquired knowledge is coming from self-study and personal readings. On that page, I will maintain and try to give an overview of the book that had been helpful to me. You can have a look to the books that I'm planning to read over the coming months <a href="https://www.bookdepository.com/wishlists/WLDQM4" target="_blank"> here</a>. I also learn a lot through paper reading. I’m trying to practice reviewing them. For an up-to-date list of papers that I read, please check my <a href="https://github.com/lucas-maes/paper-notes" target="_blank">papers-notes</a> github repository.
 
 ## Artificial Intelligence
 
@@ -147,8 +147,7 @@ This book has been important to me. It has been the first book about AI that I r
     In his book, David Eagleman convinced me that the brain is a dynamic, ever-changing machine made for learning. In a well-written style, he showed how our brain can acquire new senses and adapt to new situations thanks to high neuroplasticity. One could see many potential research ideas for continual learning in AI to solve well-known problems such as catastrophic forgetting or generalization out of distribution. 
 </div>
 
-
-## Misceleanous
+## Miscellaneaous
 
 ***
 

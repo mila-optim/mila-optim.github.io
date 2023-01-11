@@ -6,10 +6,9 @@ remote_theme: jekyll/minima
 minima:
   skin: classic
   social_links:
-    twitter: lucasmaes_
-    github:  lucas-maes
-    youtube_channel: UCnxmN17O2Z2zFESEJsHOW5w
-    youtube_channel_name: Lucas Maes
+    - { platform: github,  user_url: "https://github.com/lucas-maes" }
+    - { platform: twitter, user_url: "https://twitter.com/lucasmaes_" }
+    - { platform: youtube, user_url: "https://www.youtube.com/channel/lucasmaes_" }
 google_analytics: G-NGQWNXRS74
 highlighter: rouge
 kramdown:
