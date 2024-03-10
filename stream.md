@@ -4,7 +4,7 @@ title: Streaming
 ---
 
 <iframe
-    src="https://player.twitch.tv/?channel=lucasmaes_&parent=127.0.0.1&muted=true"
+    src="https://player.twitch.tv/?channel=lucasmaes_&parent=lucas-maes.github.io&muted=true"
     height=720
     width=1980
     allowfullscreen>
