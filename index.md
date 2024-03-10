@@ -24,5 +24,5 @@ I am deeply convinced that a good scientist is open-minded and curious. That is 
 
 My current reasearch interests are: **huge-scale optimization**, **federated learning**, **distributed computing**.
 
-<p class="copyright"> Theme from <a href="https://atcold.github.io/">Alfredo Canziani</a>.  <span class="last-edit" style='float:right;'>Last update: 09 Mar 2024.</span></p>
+<p class="copyright"> Theme from <a href="https://atcold.github.io/">Alfredo Canziani</a>.  <span class="last-edit" style='float:right;'>Last update: 10 Mar 2024.</span></p>
    
