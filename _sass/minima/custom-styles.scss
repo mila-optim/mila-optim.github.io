@@ -3,6 +3,11 @@
  */
 
 
+*{
+  font-family: "Noto Sans", sans-serif;
+  color:  #000000;
+}
+
 .site-header {
   border-top: none;
   line-height: $base-line-height * $base-font-size * 3.25;
@@ -10,11 +15,11 @@
 
 .site-title {
   @include relative-font-size(2.625);
-  font-weight: 400;
+  font-weight: 500;
   line-height: 80%;
   margin-top: 15pt;
   margin-bottom: 15pt;
-  color: #561050 !important;
+  color: #1429a0 !important;
   text-decoration: none !important;
 }
 
@@ -26,19 +31,19 @@
  * Titles
  */
 h1 {
-  color: #371B58//$primary;
+  color: #1429a0
 }
 
 h2 {
-  color: #4C3575//$lavender;
+  color: #1429a0
 }
 
 h3 {
-  color:  #5B4B8A//$pink;
+  color:  #000000
 }
 
 h4 {
-  color: #7858A6//$pink;
+  color: #000000
 }
 
 /**
@@ -61,6 +66,7 @@ img{
   padding-right: 3%;
 }
 
+
 .book{
   text-align: justify;
   text-justify: inter-word;
@@ -72,8 +78,15 @@ img{
   font-size: $base-font-size * 1.15;
 }
 
+.site-header{
+  border-color: #000000;
+}
+
+.h-card {
+  border-color: #000000;
+}
+
 .title > a{
-  //color: $gray !important;
 }
 
 
@@ -82,12 +95,12 @@ img{
 }
 
 .title > .author{
-  color: $gray;
+  color: #000000;
   opacity: 0.6;
   font-size: $base-font-size;
 }
 
- .center {
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -104,21 +117,29 @@ img{
 
 .copyright {
   margin-top: 5%;
-  color: $gray-light;
+  color: #000000 !important;
   text-align: left;
-  opacity: 0.5;
   font-size: 0.75em;
 }
 
+
+
 .post-content {
   h1, h2, h3 { margin-top: $spacing-unit}
+
 }
 
 .post-content a, .post-link {
-  color: #7858A6;
+  color: #1429a0;
 }
 
-$link-base-color: #7858A6 !default;
+.home a {
+  color: #1429a0;
+}
+
+$link-base-color: #1429a0 !default;
+
+
 
 // .post-link {
 //   color: #8dd3c7 !important;
@@ -132,6 +153,20 @@ h1#about-me {
 }
 
 .page-link{
+  padding-top: 5px !important;
+  padding-left: 15px !important;
+  padding-right: 15px !important;
+  padding-bottom: 5px !important;
+  color: #000000 !important;
+  text-decoration: none;
+  border: 1px solid #ffffff;
+}
+
+.page-link:hover{
+  color: #1429a0 !important;
+  text-decoration: none;
+  border: 1px solid #1429a0;
+  border-radius: 17px;
 }
 
 // Blog layout is home, so set size as other pages
@@ -161,11 +196,6 @@ definition {
   padding: $spacing-unit / 2;
   font-size: 1.2em;
   margin-bottom: 15px;
-}
-
-def {
-  color: $pink;
-  font-style: italic;
 }
 
 blockquote {

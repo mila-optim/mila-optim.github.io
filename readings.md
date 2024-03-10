@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readings
+#title: Readings
 ---
 
 A lot of my acquired knowledge is coming from self-study and personal readings. On that page, I will maintain and try to give an overview of the book that had been helpful to me. You can have a look to the books that I'm planning to read over the coming months <a href="https://www.bookdepository.com/wishlists/WLDQM4" target="_blank"> here</a>. I also learn a lot through paper reading. I’m trying to practice reviewing them. For an up-to-date list of papers that I read, please check my <a href="https://github.com/lucas-maes/paper-notes" target="_blank">papers-notes</a> github repository.
