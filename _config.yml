@@ -7,6 +7,8 @@ minima:
   skin: classic
   social_links:
 highlighter: rouge
+header_pages:
+  - crashcourse.md
 kramdown:
     math_engine: katex
     syntax_highlighter: rouge
