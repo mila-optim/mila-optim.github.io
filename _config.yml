@@ -1,4 +1,4 @@
-title: Lucas Maes
+title: Mila Optim
 plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
@@ -6,10 +6,6 @@ remote_theme: jekyll/minima
 minima:
   skin: classic
   social_links:
-    - { platform: github,  user_url: "https://github.com/lucas-maes" }
-    - { platform: twitter, user_url: "https://twitter.com/lucasmaes_" }
-    - { platform: youtube, user_url: "https://www.youtube.com/channel/lucasmaes_" }
-google_analytics: G-SXVHXSPVMT
 highlighter: rouge
 kramdown:
     math_engine: katex
