@@ -1,0 +1,102 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Semesters
+  version:
+  folders:
+  
+  - title: "Fall 2024"
+    output: web, pdf
+    folderitems:
+
+      - title: "1. Introduction to Convex Analysis"
+        output: web, pdf
+        url: /References.html
+
+      - title: "2. Review Gradient Descent, smoothness, strong-convexity"
+        output: web, pdf
+        url: /References.html
+
+      - title: "3. Subgradient Method and Dual Averaging"
+        output: web, pdf
+        url: /References.html
+
+      - title: "4. Nesterov's Acceleration"
+        output: web, pdf
+        url: /References.html
+
+      - title: "5. Adaptivity: Line-search, backtracking, Polyak Step Size"
+        output: web, pdf
+        url: /References.html
+
+      - title: "6. Projected and Proximal Gradient Method"
+        output: web, pdf
+        url: /References.html
+
+      - title: "7. Bregman divergence and Mirror Descent"
+        output: web, pdf
+        url: /References.html
+
+      - title: "8. Introduction to Higher-Order Methods"
+        output: web, pdf
+        url: /References.html
+
+      - title: "9. Constrained Optimization Lagrangian"
+        output: web, pdf
+        url: /References.html
+
+      - title: "10. Surrogate Optimization"
+        output: web, pdf
+        url: /References.html
+
+
+
+
+
+ 
+      
+     
+  - title: "Winter 2024"
+    output: web, pdf
+    folderitems:
+
+      - title: "1. Basic concepts, convexity, gradient descent"
+        output: web, pdf
+        url: /References.html
+
+      - title: "2. Subgradient Descent, Dual averaging"
+        output: web, pdf
+        url: /References.html
+
+      - title: "3. Convergence proof: gradient, subgradient descent"
+        output: web, pdf
+        url: /References.html
+
+      - title: "4. Acceleration: Nesterov, heavy ball"
+        output: web, pdf
+        url: /References.html
+
+      - title: "5. Stochastic gradient descent"
+        output: web, pdf
+        url: /References.html
+
+      - title: "6. Adaptive methods: line search, Polyak step"
+        output: web, pdf
+        url: /References.html
+
+      - title: "7. RMSProp and ADAM"
+        output: web, pdf
+        url: /References.html
+
+      - title: "8. Automated proof techniques"
+        output: web, pdf
+        url: /References.html
+
+      - title: "9. New adaptive techniques for deep learning"
+        output: web, pdf
+        url: /References.html
+
+
+
+  

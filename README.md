@@ -1,13 +1,5 @@
-Install with:
+# Acceleration-Methods
 
-```bash
-brew install ruby
-export PATH=/usr/local/opt/ruby/bin:$PATH
-gem install jekyll webrick jekyll-remote-theme jekyll-feed jekyll-seo-tag kramdown-math-katex jekyll-redirect-from
-```
+This repository will contain the source code for https://accelerationmethods.github.io/AccelerationMethodsWebsite/
 
-To figure out where `jekyll` has been installed, we can query `gem`:
-
-```bash
-gem environment gemdir
-```
+The website contains notes and errata from Alexandre d’Aspremont, Damien Scieur & Adrien Taylor (2021). Acceleration methods. Foundations and Trends® in Optimization

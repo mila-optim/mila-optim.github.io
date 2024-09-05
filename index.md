@@ -1,7 +1,15 @@
 ---
-layout: page
+title: "Mila Optimization Crash Course"
+keywords: homepage
+tags: [getting_started]
+sidebar: mydoc_sidebar
 ---
 
-current semester: [Fall 2024](/semester/f24.html)
+# Mila Optimization Crash Course
 
-<p class="copyright"> Theme from <a href="https://atcold.github.io/">Alfredo Canziani</a>.  <span class="last-edit" style='float:right;'>Last update: 04 September 2024.</span></p>
+## Organizers
+- [Danilo Vucetic](https://scholar.google.com/citations?user=8ULqzpMAAAAJ&hl=en)
+- [Lucas Maes](https://lucas-maes.github.io/)
+- [Tianyue (Helen) Zhang](https://tianyuehz.github.io/)
+
+{% include links.html %}
