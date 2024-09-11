@@ -3,10 +3,10 @@ title: References
 published: true
 layout: page
 sidebar: mydoc_sidebar
-permalink: test.html
+permalink: f24_surrogate.html
 folder: notes_f24
 ---
 
-# Test
-
-No typo found so far!
+# Surrogate Optimization
+Date: 12-04-2024
+Lecturer: Ryan D'Orazio

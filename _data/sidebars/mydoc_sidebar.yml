@@ -12,43 +12,43 @@ entries:
 
       - title: "1. Introduction to Convex Analysis"
         output: web, pdf
-        url: /test.html
+        url: /f24_cvx.html
 
-      - title: "2. Review Gradient Descent, smoothness, strong-convexity"
+      - title: "2. Introduction to Convex Analysis pt.2"
         output: web, pdf
-        url: /References.html
+        url: /f24_cvx2.html
 
       - title: "3. Subgradient Method and Dual Averaging"
         output: web, pdf
-        url: /References.html
+        url: /f24_subgrad_dualavg.html
 
       - title: "4. Nesterov's Acceleration"
         output: web, pdf
-        url: /References.html
+        url: /f24_acceleration.html
 
       - title: "5. Adaptivity: Line-search, backtracking, Polyak Step Size"
         output: web, pdf
-        url: /References.html
+        url: /f24_adaptivity.html
 
       - title: "6. Projected and Proximal Gradient Method"
         output: web, pdf
-        url: /References.html
+        url: /f24_prox_gd.html
 
       - title: "7. Bregman divergence and Mirror Descent"
         output: web, pdf
-        url: /References.html
+        url: /f24_mirror.html
 
       - title: "8. Introduction to Higher-Order Methods"
         output: web, pdf
-        url: /References.html
+        url: /f24_highorder.html
 
       - title: "9. Constrained Optimization Lagrangian"
         output: web, pdf
-        url: /References.html
+        url: /f24_constrained.html
 
       - title: "10. Surrogate Optimization"
         output: web, pdf
-        url: /References.html
+        url: /f24_surrogate.html
 
 
 
