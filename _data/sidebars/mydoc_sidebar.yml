@@ -12,7 +12,7 @@ entries:
 
       - title: "1. Introduction to Convex Analysis"
         output: web, pdf
-        url: /References.html
+        url: /test.html
 
       - title: "2. Review Gradient Descent, smoothness, strong-convexity"
         output: web, pdf
@@ -63,39 +63,39 @@ entries:
 
       - title: "1. Basic concepts, convexity, gradient descent"
         output: web, pdf
-        url: /References.html
+        url: /w24_basics.html
 
       - title: "2. Subgradient Descent, Dual averaging"
         output: web, pdf
-        url: /References.html
+        url: /w24_subgrad_dualavg.html
 
       - title: "3. Convergence proof: gradient, subgradient descent"
         output: web, pdf
-        url: /References.html
+        url: /w24_gd_proof.html
 
       - title: "4. Acceleration: Nesterov, heavy ball"
         output: web, pdf
-        url: /References.html
+        url: /w24_acceleration.html
 
       - title: "5. Stochastic gradient descent"
         output: web, pdf
-        url: /References.html
+        url: /w24_sgd.html
 
       - title: "6. Adaptive methods: line search, Polyak step"
         output: web, pdf
-        url: /References.html
+        url: /w24_adaptive_methods.html
 
       - title: "7. RMSProp and ADAM"
         output: web, pdf
-        url: /References.html
+        url: /w24_adam.html
 
       - title: "8. Automated proof techniques"
         output: web, pdf
-        url: /References.html
+        url: /w24_autoproof.html
 
       - title: "9. New adaptive techniques for deep learning"
         output: web, pdf
-        url: /References.html
+        url: /w24_adadl.html
 
 
 

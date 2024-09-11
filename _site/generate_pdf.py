@@ -2,7 +2,7 @@ import os
 import pypandoc
 
 # Define the directory containing the markdown files
-md_dir = '_monographtypos'
+md_dir = '_notes'
 
 # Define the output filenames
 combined_md_file = 'combined.md'

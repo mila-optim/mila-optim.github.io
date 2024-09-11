@@ -3,11 +3,10 @@ title: References
 published: true
 layout: page
 sidebar: mydoc_sidebar
-permalink: References.html
-folder: monograph
+permalink: test.html
+folder: notes_f24
 ---
 
-
-# Erratum in References
+# Test
 
 No typo found so far!

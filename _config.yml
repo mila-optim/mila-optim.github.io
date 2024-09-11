@@ -38,18 +38,8 @@ exclude:
 # these are the files and directories that jekyll will exclude from the build
 
 feedback_subject_line:
-
 feedback_email: lucas.maes@mila.quebec
-# used as a contact email for the Feedback link in the top navigation bar
-
 feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
-
-# feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
-
-# feedback_link: "http://helpy.io/"
-# if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
 # library used for syntax highlighting
@@ -66,19 +56,23 @@ kramdown:
 collections:
   tooltips:
     output: false
-  monographtypos:
+  notes_f24:
     output: true
     order:
-      - Introduction.md
-      - ChebyshevAcceleration.md
-      - NonlinearAcceleration.md
-      - NesterovAcceleration.md
-      - ProximalAccelerationandCatalyst.md
-      - UsefulInequalities.md
-      - VariationsonNesterovAcceleration.md
-      - OnWorst-caseAnalysesforFirst-orderMethods.md
-      - Acknowledgements.md
       - References.md
+  notes_w24:
+    output: true
+    order:
+      - 1_basics.md
+      - 2_subgrad_dualavg.md
+      - 3_gd_proof.md
+      - 4_acceleration.md
+      - 5_sgd.md
+      - 6_adaptive_methods.md
+      - 7_adam.md
+      - 8_autoproof.md
+      - 9_adadl.md
+
 
 
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
@@ -87,7 +81,17 @@ defaults:
   -
     scope:
       path: ""
-      type: "monograph"
+      type: "notes_f24"
+    values:
+      layout: "page"
+      comments: true
+      search: false
+      sidebar: mydoc_sidebar
+      topnav: topnav
+  - 
+    scope:
+      path: ""
+      type: "notes_w24"
     values:
       layout: "page"
       comments: true
@@ -95,15 +99,7 @@ defaults:
       sidebar: mydoc_sidebar
       topnav: topnav
 
-# these are defaults used for the frontmatter for these file types
-
 sidebars:
 - mydoc_sidebar
 
-
-description: "Acceleration Methods - Website. This website contains the notes and errata from the following monograph, d’Aspremont, A., Scieur, D., & Taylor, A. (2021). *Acceleration methods*. Foundations and Trends® in Optimization."
-# the description is used in the feed.xml file
-
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll
+description: "Mila Optim Crash Course Website."
