@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Introduction to Higher-Order Methods
-Date: 11-06-2024
-Lecturer: Damien Scieur
+
+|Date: 11-06-2024
+|Lecturer: Damien Scieur

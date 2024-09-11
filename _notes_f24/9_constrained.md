@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Constrained Optimization (Lagrangian Duality)
-Date: 11-20-2024
-Lecturer: Juan Ramirez
+
+|Date: 11-20-2024
+|Lecturer: Juan Ramirez

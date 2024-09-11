@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Adaptivity: Line-search, backtracking and Polyak Step Size
-Date: 10-09-2024
-Lecturer: Damien Scieur
+
+|Date: 10-09-2024
+|Lecturer: Damien Scieur

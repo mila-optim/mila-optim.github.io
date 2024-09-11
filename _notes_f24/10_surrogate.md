@@ -8,5 +8,7 @@ folder: notes_f24
 ---
 
 # Surrogate Optimization
-Date: 12-04-2024
-Lecturer: Ryan D'Orazio
+
+|Date: 12-04-2024
+|Lecturer: Ryan D'Orazio
+

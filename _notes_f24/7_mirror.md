@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Bregmann divergence and Mirror Descent
-Date: 10-30-2024
-Lecturer: Damien Scieur
+
+|Date: 10-30-2024
+|Lecturer: Damien Scieur

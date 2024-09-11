@@ -8,5 +8,6 @@ folder: notes_w24
 ---
 
 # Automated proof techniques
-Date: 04-17-2024
-Lecturer: Gauthier Gidel
+
+|Date: 04-17-2024
+|Lecturer: Gauthier Gidel

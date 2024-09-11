@@ -9,5 +9,8 @@ folder: notes_w24
 
 
 # Adaptive methods: line search and Polyak step size
-Date: 03-20-2024
-Lecturer: Damien Scieur
+
+|Date: 03-20-2024
+|Lecturer: Damien Scieur
+
+Download [notes]({{ site.url }}/notes_w24/6_adaptive_methods.pdf)

@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Nesterov's Acceleration
-Date: 10-02-2024
-Lecturer: Damien Scieur
+
+|Date: 10-02-2024
+|Lecturer: Damien Scieur

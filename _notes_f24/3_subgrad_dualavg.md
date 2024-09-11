@@ -8,5 +8,6 @@ folder: notes_f24
 ---
 
 # Subgradient Method and Dual Averaging
-Date: 09-18-2024
-Lecturer: Damien Scieur
+
+|Date: 09-18-2024
+|Lecturer: Damien Scieur
